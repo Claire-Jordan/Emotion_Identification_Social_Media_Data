@@ -1,0 +1,2 @@
+{"id":"test1","text":"Today is my birthday, I am so happy!! Big Party TONIGHT!!!","schema": "radio", "choices": ["Happiness", "Sadness", "Anger", "Fear"], "label_requirement": {"required":true}}
+{"id":"test2","text":"My best friend moved to another state, I am a bit lonely without her. I was so sad to see her leave.","schema": "radio", "choices": ["Happiness", "Sadness", "Anger", "Fear"], "label_requirement": {"required":true}}
